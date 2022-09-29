@@ -1,2 +1,2 @@
-“Hot fix”
+“Hot Fix”
 
